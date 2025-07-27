@@ -1,7 +1,9 @@
 ## Hi there, I'm Aryan 👋
 
-- 🌱 I’m currently learning <b>DevOps</b>
-- 💬 Ask me about <b>WebDev</b> and <b>DevOps</b>
+- 🌱 I’m currently learning <b>DevOps</b> and <b>python</b>.
+- ⚡Excited about <b>golang</b>
+- 💬 Ask me about <b>WebDev</b> and <b>DevOps</b>.
+- 🤔 I’m looking for help with internships and jobs.
 
 ### Languages:
 <div style="display: flex-wrap; align-items: center;">
@@ -10,11 +12,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="60px" width="60px" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="60px" width="60px" />
-<!--   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="60px" width="60px" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="60px" width="60px" />
-  &nbsp;&nbsp; -->
+  &nbsp;&nbsp;
 </div>
 
 ### Frameworks, Libraries, ORMs:
