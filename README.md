@@ -13,8 +13,8 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="60px" width="60px" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="60px" width="60px" />
-  &nbsp;&nbsp;
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="60px" width="60px" />
+  &nbsp;&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="60px" width="60px" />
   &nbsp;&nbsp;
 </div>
